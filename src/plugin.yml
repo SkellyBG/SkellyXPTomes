@@ -1,0 +1,13 @@
+name: SkellyXPTomes
+version: 1.0.0
+author: SkellyBG
+main: main.com.gmail.SkellyBG.SkellyBG.SkellyXPTomes
+api-version: 1.16
+
+commands:
+  givexptome:
+    description: give the user an xp tome
+    usage: /givexptome
+  tomeshop:
+    description: open the GUI to buy tome with xp
+    usage: /tomeshop
